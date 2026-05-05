@@ -1,0 +1,6 @@
+Java is a powerful programming language.
+I love learning Java and building applications.
+Python is also popular, but Java is widely used.
+Java is platform independent.
+Many developers prefer Java for backend development.
+Learning Java can open many career opportunities.This text must be appended in sample text file
